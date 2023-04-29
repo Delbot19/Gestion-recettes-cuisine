@@ -1,0 +1,61 @@
+.Number {
+    color: #367dc5;
+    border: 1px solid #367dc5;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    text-align: center;
+    font-size: 14px;
+    margin-right: 8px;
+    align-items: center;
+    justify-content: center;
+}
+.recettebg{
+    background-color: rgba(72, 38, 62, 0.25);
+    border-radius: 6px;
+    margin: auto;
+    font-size: 22px;
+
+
+}
+.icons {
+    display: inline-block;
+    margin: 0px 10px 0 10px;
+    cursor: pointer;
+    color: #eb6c56;
+}
+.icons:hover {
+    color: #101d42;
+}
+.input1{
+    width: 50%;
+    height: 40px;
+    margin: auto;
+}
+.input2{
+    width: 50%;
+    height: 100px;
+    margin: auto;
+}
+.input3{
+    width: 50%;
+    height: 130px;
+    margin: auto;
+}
+.listrecettes{
+    width: 50%;
+    height: auto;
+    margin: auto;
+
+
+}
+
+.delete{
+    position: relative;
+    top: -30px;
+}
+.modif{
+    position: relative;
+    right: 30px;
+}
